@@ -2,3 +2,9 @@ dataset/
 model/
 py/
 .DS_Store
+projenv/
+detection model_hybrid.ipynb
+detection model_oversampling.ipynb
+detection model_undersampling.ipynb
+
+

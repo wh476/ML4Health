@@ -3,3 +3,7 @@ matplotlib==3.8.2
 numpy==1.26.4
 pandas==2.2.1
 scikit_learn==1.4.0
+
+
+pip install imbalanced-learn==0.12.0 matplotlib==3.8.2 numpy==1.26.4 pandas==2.2.1 scikit-learn==1.4.0
+source venv/bin/activate
