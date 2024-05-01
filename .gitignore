@@ -1,6 +1,7 @@
 dataset/
 model/
 py/
+.env
 .DS_Store
 projenv/
 detection model_hybrid.ipynb
