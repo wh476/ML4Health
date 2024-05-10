@@ -2,17 +2,20 @@
 
 ## Description
 
-This project utilizes the pretrained BERTweet model to conduct multiclass classification of Tweets into hate speech, offensive language, and neutral language.
+This project explores three resampling methods: SMOTE for oversampling, ENN for undersampling, and SMOTE-ENN for a combined approach, and applies these methods alongside the BERTweet model and baseline models like Logistic Regression and Random Forest to conduct multiclass classification of Tweets into hate speech, offensive language, and neutral language.
 
 ## Setup
 To get started with this project, follow these steps:
 
 1. Clone the repository with the following command:
+``` python
 git clone https://github.com/wh476/ML4health.git
-  
-2. Install the required dependencies:
+```
+2. Create a virtual environment and install the required dependencies:
 Run the following command:
+``` python
 pip install -r requirements.txt
+```
 
 3. Run the following Jupyter Notebook one by one:
 - `src/data_cleaning.ipynb`
