@@ -11,7 +11,7 @@ To get started with this project, follow these steps:
 git clone https://github.com/wh476/ML4health.git
   
 2. Install the required dependencies:
-To install the required Python libraries, run the following command:
+Run the following command:
 pip install -r requirements.txt
 
 3. Run the following Jupyter Notebook one by one:
