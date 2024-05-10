@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 3. Run the following Jupyter Notebook one by one:
 - `src/data_cleaning.ipynb`
+- `src/word_importance.ipynb`
 - `src/baseline_models_auto.ipynb`
 - `src/BERTweet_multiclass.ipynb`
 - `src/visualization_of_comparison.ipynb`
@@ -27,10 +28,11 @@ pip install -r requirements.txt
 - `dataset/`: Contains raw data and processed dataset.
 - `src/`: Source code files for the project.
    - `data_cleaning.ipynb`: Script to clean and prepare data. Conducts statistical analysis and visualization on the raw data.
+   - `word_importance.ipynb`: Conducts TF-IDF analysis, specifically unigrams and bigrams across three categories.
    - `baseline_models_auto.ipynb`: Sets up and evaluates 2 baseline models: linear regression and random forest.
    - `BERTweet_multiclass.ipynb`: Trains and evaluates the BERTweet model for the multiclass classification task.
    - `visualization_of_comparison.ipynb`: Generates graphs and figures to compare the outcomes of different models and parameters.
-- `results/`: Stores output from scripts, specifically figures.
+- `results/`: Stores output from scripts.
 
 
 
