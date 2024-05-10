@@ -11,8 +11,12 @@ To get started with this project, follow these steps:
 ``` python
 git clone https://github.com/wh476/ML4health.git
 ```
-2. Create a virtual environment and install the required dependencies:
+2. Create and activate a virtual environment, then install the required dependencies:
 Run the following command:
+``` python
+python -m venv env
+source env/bin/activate
+```
 ``` python
 pip install -r requirements.txt
 ```
