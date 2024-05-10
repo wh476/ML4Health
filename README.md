@@ -28,7 +28,6 @@ pip install -r requirements.txt
    - `BERTweet_multiclass.ipynb`: Train and evaluate the BERTweet model for the multiclass classification task.
    - `visualization_of_comparison.ipynb`: Generates graphs and figures to compare the outcomes of different models and parameters.
 - `results/`: Stores output from scripts, specifically figures.
-- `tests/`: Contains tests for resampling techniques
 
 
 

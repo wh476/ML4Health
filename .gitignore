@@ -1,17 +1,8 @@
-dataset/
 model/
 py/
 .env
 .DS_Store
 projenv/
-detection model_hybrid.ipynb
-detection model_oversampling.ipynb
-detection model_undersampling.ipynb
-baseline_models.ipynb
-detection model.ipynb
-
-
-
-
+tests/
 
 baseline_models_copy.ipynb
