@@ -4,5 +4,4 @@ py/
 .DS_Store
 projenv/
 tests/
-
-baseline_models_copy.ipynb
+dataset/
