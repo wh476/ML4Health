@@ -21,7 +21,9 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Run the following Jupyter Notebook one by one:
+3. Create a folder named `dataset/` under the project diretory, and download the `raw_data.csv` file via this link: https://drive.google.com/drive/folders/1wSyziQltNIhpMJK6n4vAPSX-wVnvr6Mq. Put the downloaded file into the `dataset/` folder.
+
+4. Run the following Jupyter Notebook one by one:
 - `src/data_cleaning.ipynb`
 - `src/word_importance.ipynb`
 - `src/baseline_models_auto.ipynb`
